@@ -63,6 +63,6 @@
 
 ## 활동사진
 
-| ![Image1](https://github.com/user-attachments/assets/7bc54380-471b-489d-afa4-83cbc8389d61) | ![Image2](https://github.com/user-attachments/assets/ddba5bea-f399-4a9b-8161-9708b6a0a852) |
+| ![Image1](https://github.com/user-attachments/assets/7bc54380-471b-489d-afa4-83cbc8389d61) | ![Image](https://github.com/user-attachments/assets/0cb0e605-88cd-4a46-a638-2c116996550f)|
 | --- | --- |
 | ![Image3](https://github.com/user-attachments/assets/eb17af48-3208-40da-9ba8-06ab0733a123) | ![Image4](https://github.com/user-attachments/assets/ee614375-cef3-4e22-89d4-c8a0a95f9bcf) |
